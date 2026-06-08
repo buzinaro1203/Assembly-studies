@@ -1,6 +1,5 @@
 .data
 	n: .word 5
-	r: .word 0
 	vetor1: .word 1 2 3 4 5 
 	vetor2: .word 1 2 3 4 5	
 	vetor3: .word 0 0 0 0 0
